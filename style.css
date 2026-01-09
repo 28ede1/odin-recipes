@@ -1,5 +1,6 @@
 * {
     background-color: #E2E2E2;
+    margin: 16px auto;
     
 }
 
@@ -25,3 +26,16 @@ ul {
     text-align: center;
     list-style: none;
 }
+
+.recipe-link {
+    color: black;
+}
+
+.food-image {
+    padding: 10px;
+    border: 2px solid black;
+    background-color: #D1E8E2;
+    display: block;
+    margin: 32px auto;
+}
+
