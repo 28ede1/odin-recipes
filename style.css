@@ -1,0 +1,27 @@
+* {
+    background-color: #E2E2E2;
+    
+}
+
+h1 {
+    background-color: #A9D6E5;
+    border-color: black;
+    border: 3px solid black;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    width: 600px;
+    margin: 16px auto;
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.recipe-list {
+    border: 3px solid black;
+    width: 1000px;
+    text-align: center;
+    margin: 16px auto;
+    text-align: center;
+    list-style: none;
+}
